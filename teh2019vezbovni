@@ -1,0 +1,61 @@
+title; TEH 2019 Vežbovni - Anketa
+desc; Molimo te da nam što iskrenije odgovoriš na pitanja kako bi buduće seminare učinili što boljim :)
+text; Pokušaj u dve reči da sumiraš najpozitivnije utiske seminara.
+text; Pokušaj u dve reči da sumiraš najnegativnije utiske seminara.
+section_header; U nastavku ćemo te pitati da nam daš komentar o pojedinačnim aktivnostima sa seminara 
+activity; Sve što ste trebali da pogledate u međuvremenu na Petlji o Pajtonu, a niste - Bebić & Tešić; AKTIVNOST
+activity; Teorija igara - Aleksandra Alorić; PREDAVANJE
+activity; Matematika podsećanje - Jovan Božuta; AKTIVNOST
+activity; Obrada rezultata merenja - Mateja Jovanović; PREDAVANJE
+activity; Obrada rezultata merenja u Pajtonu - Nikola Bebić; PREDAVANJE
+activity; Pi; Film filmu
+activity; Uvod u LaTeX i kako pisati izveštaje; PREDAVANJE
+activity; Određivanje koeficijenta viskoznosti; Vežba vežbi
+activity; Izračunavanje odnosa signal-šum; Vežba vežbi
+activity; Hablov zakon; Vežba vežbi
+scale; Proces pisanja i revizije izveštaja; 1; Očaj; 5; Fantazija
+text; Dodatni komentar o izveštajima
+activity; Izborna vežba; AKTIVNOST
+mulch; Da li ste zadovoljni svojim izborom vežbe prvog dana; Da; Ne
+mulch; Da li ste zadovoljni svojim izborom vežbe drugog dana; Da; Ne
+grid; Koliko biste bili zainteresovani da radite svaki od sledećih projekata?
+    Saturnovi prstenovi
+    Masa Jupitera
+    Problem tri tela
+    Indeks prelamanja vode
+    Upetljano klatno
+    Određivanje plankove konstante
+    Majkelsonov interferometar
+    Difrakcija na dlaci
+    Određivanje grafitacione konstante sa videa klatna
+    Određivanje koeficijenta viskoznosti sa video zapisa
+    Analiza Jadnika / GoT
+    Preferential attachment
+    Predator-pray model
+    Fraktalna dimenzija papira
+    Intervali poverenja i primene
+    Testovi normalnosti i primene
+    Transformacije Smirnova i primene
+    Magnetni tahomer
+    Merenje statičke karakteristike diode
+    Mašina stanja dizalice
+    Merenje površine figure pomoću kamere
+    Foto daljinometar
+    ---
+    1
+    2
+    3
+    4
+    5
+text; Ako niste, koju biste vežbu sada izabrali
+text; Dodatni komentar o izbornim vežbama
+mulch; Da možete da opet radite mini projekte, da li biste opet radili isti?; Da; Ne
+activity; Prezentacije mini projekata; AKTIVNOST
+scale; Opšti utisak o saradnicima; 1; Najgori; 5; Najbolji
+text; Dodatan komentar o saradnicima
+scale; Opšti utisak o rukovodiocu seminara; 1; Najgori; 5; Najbolji
+text; Dodatan komentar o rukovodiocu seminara
+scale; Opšti utisak o seminaru; 1; Najgori; 5; Najbolji
+text; Da li imaš neke sugestije šta ukloniti iz programa TEH za sledeću godinu?
+text; Da li imaš neke sugestije šta dodati u program TEH za sledeću godinu?
+text?; Ako imaš još nešto da nam kažeš što te nismo pitali slobodno nam to napiši ovde:

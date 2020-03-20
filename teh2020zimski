@@ -1,0 +1,45 @@
+title; TEH 2020 Zimski - Anketa
+desc; Molimo te da nam što iskrenije odgovoriš na pitanja kako bi buduće seminare učinili što boljim :)
+text; Pokušaj u dve reči da sumiraš najpozitivnije utiske seminara.
+text; Pokušaj u dve reči da sumiraš najnegativnije utiske seminara.
+section_header; U nastavku ćemo te pitati da nam daš komentar o pojedinačnim aktivnostima sa seminara
+activity; Uvodni sastanak, upoznavanje & obilazak stanice - Aleksandra Alorić; AKTIVNOST
+activity; Experiment design - Aleksandra Alorić; PREDAVANJE
+activity; Šah - Vojislav Petrović; PREDAVANJE
+activity; Kritičko čitanje; AKTIVNOST
+activity; Matematika zagrevanje - Jana Vučković; PREDAVANJE
+activity; Matematičko razgibavanje - Jovan Božuta; AKTIVNOST
+activity; Uvod u elektrotehniku - Milomir Stefanović; AKTIVNOST
+activity; Automatika - Jelena Rodić; PREDAVANJE
+activity; (Astro)fizika na poleđini koverte - Vladan Đukić; PREDAVANJE
+activity; Hešov problem - Bojan Bašić; PREDAVANJE
+activity; Uvod u kosmologiju - Milena Simić; PREDAVANJE
+activity; Algoritamski način razmišljanja - Nikola Bebić; PREDAVANJE
+activity; Uvod u elektroniku - Milomir Stefanović & Dragan Mićić; AKTIVNOST
+activity; O poplavama, Gardošu, Tuškancu i Gausu - Žikica Lukić; PREDAVANJE
+activity; Matematička vežbaonica; AKTIVNOST
+activity; Arhitektura računara - Aleksa Tešić; PREDAVANJE
+activity; Sunčev sistem - Bojan Novaković; PREDAVANJE
+activity; O mom dedi, alkoholu, homeopatiji i horoskopu - Oliver Tošković; PREDAVANJE
+activity; Pojmovi & rad na njima; AKTIVNOST
+grid; Upoznavanje
+    Koliko je bilo korisno
+    Koliko je bilo zanimljivo
+    Koliko je bilo stresno
+    ---
+    1
+    2
+    3
+    4
+    5
+text; Dodatan komentar o upoznavanju
+mulch; Koja ste grupa za matematiku/elektroniku?; Prvo smo išli kod Božute na matematiku; Prvo smo išli kod Milomira na elektrotehniku
+scale; Opšti utisak o saradnicima; 1; Najgori; 5; Najbolji
+text; Dodatan komentar o saradnicima
+scale; Opšti utisak o rukovodiocu seminara (Saški); 1; Najgori; 5; Najbolji
+scale; Opšti utisak o rukovodiocu seminara (Rošku); 1; Najgori; 5; Najbolji
+text; Dodatan komentar o rukovodiocu seminara
+scale; Opšti utisak o seminaru; 1; Najgori; 5; Najbolji
+text; Da li imaš neke sugestije šta ukloniti iz programa TEH za sledeću godinu?
+text; Da li imaš neke sugestije šta dodati u program TEH za sledeću godinu?
+text?; Ako imaš još nešto da nam kažeš što te nismo pitali slobodno nam to napiši ovde:
